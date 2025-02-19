@@ -1,0 +1,37 @@
+LandisData   "Land Use"
+
+
+Timestep    1
+InputMaps	Y:/duveneck/anp/LANDIS_ANP/LU_mapsEAB5_land-use-{timestep}.img
+SiteLog		output/land-use/site-log.csv  <<optional:  default=don't generate log
+
+>> LAND USE SCENARIOS
+>>------------------------------->>------------------------------------
+LandUse          "Background"
+>>------------------------------------
+MapCode          0
+AllowHarvest?    Yes  
+LandCoverChange  NoChange
+>>RepeatHarvest?   Yes
+>>EnableEstablishment
+
+>>------------------------------------
+>>LandUse          "Forest"
+>>------------------------------------
+>>MapCode          2
+>>AllowHarvest?    Yes  
+>>LandCoverChange  NoChange
+>>RepeatHarvest?   Yes
+>>EnableEstablishment
+
+
+>> red spruce damage
+>>------------------------------->>------------------------------------
+LandUse          "picerube"  
+>>------------------------------------
+MapCode          9
+AllowHarvest?    Yes
+LandCoverChange  RemoveTrees
+RepeatHarvest?   No
+ 			picerube	5-500(55%)
+			

@@ -1,0 +1,58 @@
+LandisData  EcoregionParameters 
+EcoregionParameters	PrecLossFrac	climateFileName						SoilType	RootingDepth	LeakageFrac	SnowSublimFrac
+>> eco1504				.3				15_ecoreg_historic_climate.txt	LOSA		223				1			.15
+>> eco1901				.3              19_ecoreg_historic_climate.txt	SALO		1224			1			.15
+>> eco1902             .3              19_ecoreg_historic_climate.txt	SAND        1960			1			.15
+>> eco1903             .3              19_ecoreg_historic_climate.txt	SILO        1943			1			.15
+>> eco1904             .3              19_ecoreg_historic_climate.txt	LOSA        749				1			.15
+>> eco2001             .3              20_ecoreg_historic_climate.txt	SALO        1458			1			.15
+>> eco2002             .3              20_ecoreg_historic_climate.txt	SAND        1931			1			.15
+>> eco2003             .3              20_ecoreg_historic_climate.txt	SILO        1971			1			.15
+>> eco2004             .3              20_ecoreg_historic_climate.txt	LOSA        736				1			.15
+>> eco2005             .3              20_ecoreg_historic_climate.txt	NRAT        1734			1			.15
+>> eco2010             .3              20_ecoreg_historic_climate.txt	SICL        33				1			.15
+
+eco15042	0.3	15_ecoreg_historic_climate.txt	LOSA	300	1	0.15
+eco15043	0.3	15_ecoreg_historic_climate.txt	LOSA	500	1	0.15
+eco19012	0.3	19_ecoreg_historic_climate.txt	SALO	300	1	0.15
+eco19013	0.3	19_ecoreg_historic_climate.txt	SALO	500	1	0.15
+eco19014	0.3	19_ecoreg_historic_climate.txt	SALO	700	1	0.15
+eco19015	0.3	19_ecoreg_historic_climate.txt	SALO	900	1	0.15
+eco19016	0.3	19_ecoreg_historic_climate.txt	SALO	1000	1	0.15
+eco19025	0.3	19_ecoreg_historic_climate.txt	SAND	900	1	0.15
+eco19026	0.3	19_ecoreg_historic_climate.txt	SAND	1000	1	0.15
+eco19033	0.3	19_ecoreg_historic_climate.txt	SILO	500	1	0.15
+eco19034	0.3	19_ecoreg_historic_climate.txt	SILO	700	1	0.15
+eco19035	0.3	19_ecoreg_historic_climate.txt	SILO	900	1	0.15
+eco19036	0.3	19_ecoreg_historic_climate.txt	SILO	1000	1	0.15
+eco19042	0.3	19_ecoreg_historic_climate.txt	LOSA	300	1	0.15
+eco19043	0.3	19_ecoreg_historic_climate.txt	LOSA	500	1	0.15
+eco19044	0.3	19_ecoreg_historic_climate.txt	LOSA	700	1	0.15
+eco19045	0.3	19_ecoreg_historic_climate.txt	LOSA	900	1	0.15
+eco19046	0.3	19_ecoreg_historic_climate.txt	LOSA	1000	1	0.15
+eco20012	0.3	20_ecoreg_historic_climate.txt	SALO	300	1	0.15
+eco20013	0.3	20_ecoreg_historic_climate.txt	SALO	500	1	0.15
+eco20014	0.3	20_ecoreg_historic_climate.txt	SALO	700	1	0.15
+eco20015	0.3	20_ecoreg_historic_climate.txt	SALO	900	1	0.15
+eco20016	0.3	20_ecoreg_historic_climate.txt	SALO	1000	1	0.15
+eco20024	0.3	20_ecoreg_historic_climate.txt	SAND	700	1	0.15
+eco20025	0.3	20_ecoreg_historic_climate.txt	SAND	900	1	0.15
+eco20026	0.3	20_ecoreg_historic_climate.txt	SAND	1000	1	0.15
+eco20032	0.3	20_ecoreg_historic_climate.txt	SILO	300	1	0.15
+eco20033	0.3	20_ecoreg_historic_climate.txt	SILO	500	1	0.15
+eco20034	0.3	20_ecoreg_historic_climate.txt	SILO	700	1	0.15
+eco20035	0.3	20_ecoreg_historic_climate.txt	SILO	900	1	0.15
+eco20036	0.3	20_ecoreg_historic_climate.txt	SILO	1000	1	0.15
+eco20041	0.3	20_ecoreg_historic_climate.txt	LOSA	100	1	0.15
+eco20042	0.3	20_ecoreg_historic_climate.txt	LOSA	300	1	0.15
+eco20043	0.3	20_ecoreg_historic_climate.txt	LOSA	500	1	0.15
+eco20044	0.3	20_ecoreg_historic_climate.txt	LOSA	700	1	0.15
+eco20045	0.3	20_ecoreg_historic_climate.txt	LOSA	900	1	0.15
+eco20046	0.3	20_ecoreg_historic_climate.txt	LOSA	1000	1	0.15
+eco20056	0.3	20_ecoreg_historic_climate.txt	NRAT	1000	1	0.15
+eco20101	0.3	20_ecoreg_historic_climate.txt	SICL	100	1	0.15
+eco20102	0.3	20_ecoreg_historic_climate.txt	SICL	300	1	0.15
+eco20103	0.3	20_ecoreg_historic_climate.txt	SICL	500	1	0.15
+eco20104	0.3	20_ecoreg_historic_climate.txt	SICL	700	1	0.15
+eco20105	0.3	20_ecoreg_historic_climate.txt	SICL	900	1	0.15
+eco20106	0.3	20_ecoreg_historic_climate.txt	SICL	1000	1	0.15
