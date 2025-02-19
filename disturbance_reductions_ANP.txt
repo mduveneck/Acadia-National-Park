@@ -1,0 +1,16 @@
+LandisData	DisturbanceReductions				
+				
+DisturbanceReductions	  fire				wind				harvest   				bda	<<	LandUse >>LandUse used to simulate defoliator
+>>-------------------------------------------------------------------------------------------------
+WoodReduction			  0.33				0					1.0						0	<<	0  harvest from .3 to .01 for a test.
+FolReduction			  1					0					0						0	<<	.5
+RootReduction			  0					0					0						0	<<	0
+
+DeadWoodReduction		.7					0					0						0	<<	0
+LitterReduction			.9					0					0						0	<<	0
+
+				
+>>The values for WoodReduction, RootReduction and FolReduction represent the proportion of biomass (wood, root or foliage) 
+>>that gets reduced prior to the transfer of biomass into the dead wood (wood and root) or litter (foliage) pools. 
+>>These values represent how much of the cohorts are consumed by the disturbance (e.g., fire), 
+>>or removed from the site as part of the disturbance (e.g., harvest).

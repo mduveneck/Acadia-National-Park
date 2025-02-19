@@ -1,0 +1,17 @@
+LandisData "PnET-Succession"
+PnET-Succession	Value  
+Timestep 5
+StartYear 2015
+SeedingAlgorithm  WardSeedDispersal 
+Latitude  44.3 
+
+InitialCommunities    "ic_text_ANP.txt"  
+InitialCommunitiesMap "ic_map_ANP_32S.tif"   
+ >> LitterMap		".img"
+ >> WoodyDebrisMap	".img"
+EcoregionParameters  "ecoregions_PNET_ANP_RCP85_CLIMATE.txt" 
+PnETGenericParameters  "generic_PNET_ANP.txt"
+PnETSpeciesParameters	"species_PNET_ANP.txt"
+DisturbanceReductions	 "disturbance_reductions_ANP.txt" 
+
+
